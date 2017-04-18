@@ -2,9 +2,9 @@
 #define _AVLTREE_TYPES_H_
 
 
-#define AVL_INT (0)
-#define AVL_FLOAT (1)
-#define AVL_DOUBLE (2)
+#define AVL_INT 0
+#define AVL_FLOAT 1
+#define AVL_DOUBLE 2
 
 
 typedef struct _avlnode_t
