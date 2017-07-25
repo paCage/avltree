@@ -12,4 +12,4 @@ _TESTS := new_avltree_tests \
 
 _DEPS :=
 
-include ./Makefile.paCage/Makefile.paCage
+include ./Makefile.paCage/Makefile
